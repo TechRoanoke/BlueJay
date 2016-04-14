@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueJay", "BlueJay\BlueJay.csproj", "{05ACCCB7-6ECE-4C41-8504-C4CC26693FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{ED5100F9-C4EC-4FF1-9F3B-875D579B0632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueJay.Tests", "BlueJay.Tests\BlueJay.Tests.csproj", "{3DE2B374-F510-4770-A4FD-1040A430E9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05ACCCB7-6ECE-4C41-8504-C4CC26693FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ACCCB7-6ECE-4C41-8504-C4CC26693FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ACCCB7-6ECE-4C41-8504-C4CC26693FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ACCCB7-6ECE-4C41-8504-C4CC26693FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5100F9-C4EC-4FF1-9F3B-875D579B0632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5100F9-C4EC-4FF1-9F3B-875D579B0632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5100F9-C4EC-4FF1-9F3B-875D579B0632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5100F9-C4EC-4FF1-9F3B-875D579B0632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE2B374-F510-4770-A4FD-1040A430E9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE2B374-F510-4770-A4FD-1040A430E9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE2B374-F510-4770-A4FD-1040A430E9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE2B374-F510-4770-A4FD-1040A430E9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
